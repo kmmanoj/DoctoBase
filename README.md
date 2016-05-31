@@ -1,18 +1,13 @@
 # DoctoBase
-*******************************************************************************************************************
-***    ***   *** ***** ***  ***    **    **** *****
-*  *  *   * *      *  *   * *  *  *  *  *     *
-*   * *   * *      *  *   * ***  ******  ***  *****
-*  *  *   * *      *  *   * *  * *    *     * *
-***    ***   ***   *   ***  ***  *    * ****  *****
-*******************************************************************************************************************
 
-	A website that enables both the user, and the dealer of a medical store to achieve online purchase of medicines.
-	Individual also gain knowledge on the medicine, drug and symptoms.
-	User is enabled to see the cost of each medicine in different cities and pharmacies.
-	User is enabled to view the details of the specialists associated with the website.	
-	As a user, website allows to buy medicine online from medical stores, and know more about drugs, medicines, specialists, medical stores.
-	As a dealer, the website allows to buy medicine online from production unit and maintain the list of medicines,that the dealer sells online.
+----------------DOCTOBASE------------------
+
+A website that enables both the user, and the dealer of a medical store to achieve online purchase of medicines.
+Individual also gain knowledge on the medicine, drug and symptoms.
+User is enabled to see the cost of each medicine in different cities and pharmacies.
+User is enabled to view the details of the specialists associated with the website.	
+As a user, website allows to buy medicine online from medical stores, and know more about drugs, medicines, specialists, medical stores.
+As a dealer, the website allows to buy medicine online from production unit and maintain the list of medicines,that the dealer sells online.
 
 ___________________________________________________________________________________________________________________
 INTRODUCTION:
