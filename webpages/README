@@ -1,2 +1,4 @@
 Contains the files requried for the front-end website;
 Uses bootstrap.min.css, php and mysql.
+
+The username and password to connect to mysql is just an illustration and requires to be changed accordingly while working on other systems.
